@@ -1,2 +1,2 @@
 # Miles-and-Mark-jane-st-etc
-Miles wrote this code based off both our ideas and used this code to win the $500 prize.
+In this project Miles Olson and I create a web soocket connection to Jane Street's virtual exchange and then use a pennying strategy to trade if there is a profitable spread across any asset.
